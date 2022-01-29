@@ -4,6 +4,7 @@
   width: 600px;
   height: 200px;
   border: 1px solid black;
+
 }
 
 footer {
@@ -14,3 +15,9 @@ footer {
   text-align: center;
   font-size: 24px;
 }
+
+.banner-two{
+  display: flex;
+  border: 1px solid black;
+}
+
