@@ -1,12 +1,7 @@
-body {
+.banner1 {
   display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.message {
-  background-color: pink;
-  color: white;
-  width: 300px;
-  height: 300px;
+  justify-content: space-around;
+  width: 600px;
+  height: 200px;
+  border: 1px solid black;
 }
